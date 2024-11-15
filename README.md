@@ -1,1 +1,1 @@
-# Ex-7-Hardware-Startup lala
+# Ex-7-Hardware-Startup
